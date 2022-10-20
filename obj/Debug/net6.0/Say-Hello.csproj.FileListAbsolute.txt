@@ -1,0 +1,15 @@
+C:\Users\sauls\Documents\CSTeam\Zac\Say-Hello\bin\Debug\net6.0\Say-Hello.exe
+C:\Users\sauls\Documents\CSTeam\Zac\Say-Hello\bin\Debug\net6.0\Say-Hello.deps.json
+C:\Users\sauls\Documents\CSTeam\Zac\Say-Hello\bin\Debug\net6.0\Say-Hello.runtimeconfig.json
+C:\Users\sauls\Documents\CSTeam\Zac\Say-Hello\bin\Debug\net6.0\Say-Hello.dll
+C:\Users\sauls\Documents\CSTeam\Zac\Say-Hello\bin\Debug\net6.0\Say-Hello.pdb
+C:\Users\sauls\Documents\CSTeam\Zac\Say-Hello\obj\Debug\net6.0\Say-Hello.csproj.AssemblyReference.cache
+C:\Users\sauls\Documents\CSTeam\Zac\Say-Hello\obj\Debug\net6.0\Say-Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sauls\Documents\CSTeam\Zac\Say-Hello\obj\Debug\net6.0\Say-Hello.AssemblyInfoInputs.cache
+C:\Users\sauls\Documents\CSTeam\Zac\Say-Hello\obj\Debug\net6.0\Say-Hello.AssemblyInfo.cs
+C:\Users\sauls\Documents\CSTeam\Zac\Say-Hello\obj\Debug\net6.0\Say-Hello.csproj.CoreCompileInputs.cache
+C:\Users\sauls\Documents\CSTeam\Zac\Say-Hello\obj\Debug\net6.0\Say-Hello.dll
+C:\Users\sauls\Documents\CSTeam\Zac\Say-Hello\obj\Debug\net6.0\refint\Say-Hello.dll
+C:\Users\sauls\Documents\CSTeam\Zac\Say-Hello\obj\Debug\net6.0\Say-Hello.pdb
+C:\Users\sauls\Documents\CSTeam\Zac\Say-Hello\obj\Debug\net6.0\Say-Hello.genruntimeconfig.cache
+C:\Users\sauls\Documents\CSTeam\Zac\Say-Hello\obj\Debug\net6.0\ref\Say-Hello.dll

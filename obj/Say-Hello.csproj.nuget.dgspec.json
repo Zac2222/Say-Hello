@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\Projects\\GitHubChallenges\\sayHello\\Say-Hello\\Say-Hello.csproj": {}
+    "C:\\Users\\sauls\\Documents\\CSTeam\\Zac\\Say-Hello\\Say-Hello.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\Projects\\GitHubChallenges\\sayHello\\Say-Hello\\Say-Hello.csproj": {
+    "C:\\Users\\sauls\\Documents\\CSTeam\\Zac\\Say-Hello\\Say-Hello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\Projects\\GitHubChallenges\\sayHello\\Say-Hello\\Say-Hello.csproj",
+        "projectUniqueName": "C:\\Users\\sauls\\Documents\\CSTeam\\Zac\\Say-Hello\\Say-Hello.csproj",
         "projectName": "Say-Hello",
-        "projectPath": "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\Projects\\GitHubChallenges\\sayHello\\Say-Hello\\Say-Hello.csproj",
-        "packagesPath": "C:\\Users\\zac22\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\Projects\\GitHubChallenges\\sayHello\\Say-Hello\\obj\\",
+        "projectPath": "C:\\Users\\sauls\\Documents\\CSTeam\\Zac\\Say-Hello\\Say-Hello.csproj",
+        "packagesPath": "C:\\Users\\sauls\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sauls\\Documents\\CSTeam\\Zac\\Say-Hello\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\zac22\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\sauls\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -43,7 +43,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -52,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
